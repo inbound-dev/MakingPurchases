@@ -1,1 +1,1 @@
-# This repository is for the MakingPurchases Project
+# This repository is for the Making Purchases Project
